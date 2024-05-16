@@ -30,7 +30,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario1.txt
+     * Сценарий1.docx
      * 2 * 2 = 4
      */
     @Test
@@ -45,7 +45,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario2.txt
+     * Сценарий2.docx
      * 2 * 2 != 5
      */
     @Test
@@ -59,7 +59,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario3.txt
+     * Сценарий3.docx
      * 9^2 = 81
      */
     @Test
@@ -71,7 +71,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario4.txt
+     * Сценарий4.docx
      * 10 - 2 = 8
      */
     @Test
@@ -87,7 +87,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario5.txt
+     * Сценарий5.docx
      * 12 - 3 != 6
      */
     @Test
@@ -102,7 +102,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario6.txt
+     * Сценарий6.docx
      * Проверка очистки значений
      */
     @Test
@@ -112,7 +112,7 @@ public class CalculatorTest {
     }
 
     /**
-     * Scenario7.txt
+     * Сценарий7.docx
      * Деление на 0
      */
     @Test
